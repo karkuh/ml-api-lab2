@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Тести
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Артефакти моделі 
+model.joblib
+
+# IDE
+.vscode/
+.idea/
+
+# Docker 
+.dockerignore
